@@ -1,0 +1,1 @@
+# A resume written in pure HTML (very simple)

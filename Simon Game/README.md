@@ -1,0 +1,1 @@
+# This is a web-based version of the Simon game.
